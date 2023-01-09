@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @harshithkalki
-- 
 <!-- - 📫 How to reach me  -->
 
 <!---
